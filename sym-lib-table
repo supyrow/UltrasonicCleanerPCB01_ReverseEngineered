@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "UltraSonicCleaner-Board_One-REVERSE-rescue")(type "Legacy")(uri "${KIPRJMOD}/UltraSonicCleaner-Board_One-REVERSE-rescue.lib")(options "")(descr ""))
+)
